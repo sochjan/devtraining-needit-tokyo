@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>true</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.occasions_user</name>
+        <requires_subscription>1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>occasions_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>sochjan</sys_created_by>
+        <sys_created_on>2023-06-26 16:05:24</sys_created_on>
+        <sys_id>e994e5a72fe72110209158a72799b6e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.occasions_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_e994e5a72fe72110209158a72799b6e5</sys_update_name>
+        <sys_updated_by>sochjan</sys_updated_by>
+        <sys_updated_on>2023-06-26 16:05:24</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>e846b1d1dbdad1d42f68c59705961930</instance_id>
+        <instance_name>dev138550</instance_name>
+        <name>sys_user_role_e994e5a72fe72110209158a72799b6e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>true</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.occasions_user</name><requires_subscription>1</requires_subscription><scoped_admin>false</scoped_admin><suffix>occasions_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>sochjan</sys_created_by><sys_created_on>2023-06-26 16:05:24</sys_created_on><sys_id>e994e5a72fe72110209158a72799b6e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.occasions_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_e994e5a72fe72110209158a72799b6e5</sys_update_name><sys_updated_by>sochjan</sys_updated_by><sys_updated_on>2023-06-26 16:05:24</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>756386879</payload_hash>
+        <record_name>x_58872_needit.occasions_user</record_name>
+        <reverted_from/>
+        <source>90536de32fe72110209158a72799b6dd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>sochjan</sys_created_by>
+        <sys_created_on>2023-06-26 16:05:24</sys_created_on>
+        <sys_id>3f05eda72fe72110209158a72799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188f873e3cb0000001</sys_recorded_at>
+        <sys_updated_by>sochjan</sys_updated_by>
+        <sys_updated_on>2023-06-26 16:05:24</sys_updated_on>
+        <type>Role</type>
+        <update_guid>7705eda72be72110c161a229d60bd20b</update_guid>
+        <update_guid_history>7705eda72be72110c161a229d60bd20b:756386879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.occasions_user">613339ff2fe32110209158a72799b603</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>sochjan</sys_created_by>
+        <sys_created_on>2023-06-27 11:45:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>39c86614d5804a18ab38d13a132c46e4</sys_id>
+        <sys_metadata>e994e5a72fe72110209158a72799b6e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.occasions_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_e994e5a72fe72110209158a72799b6e5</sys_update_name>
+        <sys_update_version display_value="sys_user_role_e994e5a72fe72110209158a72799b6e5">3f05eda72fe72110209158a72799b60b</sys_update_version>
+        <sys_updated_by>sochjan</sys_updated_by>
+        <sys_updated_on>2023-06-27 11:45:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
